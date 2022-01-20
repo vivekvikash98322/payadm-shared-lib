@@ -1,7 +1,10 @@
 {
-  "name": "payadm-shared-lib",
+  "name": "@vivekvikash98322/payadm-shared-lib",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/payadm-shared-lib"
+  },
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "main": "./dist/index.js",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.1",
